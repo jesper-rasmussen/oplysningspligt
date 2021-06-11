@@ -4,7 +4,7 @@ Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt 
 
 Projektet udføres af PhD-studerende på Aarhus Universitet [Jesper Rasmussen][aujr]
 
-## Oplysningspligt
+
 
 
 
