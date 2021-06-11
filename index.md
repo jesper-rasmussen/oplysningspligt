@@ -1,5 +1,5 @@
 # Information til deltagere i forskningsprojektet 
-Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger.
+1 Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger.
 
 ## Den dataansvarlige
 Dataansvarlig for behandlingen af personoplysninger i forskningsprojektet er:
