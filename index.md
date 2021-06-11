@@ -2,7 +2,14 @@
 Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger.
 
 ## Den dataansvarlige
-Aarhus Universitet (CVR-nr.: 31119103), Nordre Ringgade 1, 8000 Aarhus C er dataansvarlig for behandlingen af personoplysninger i forskningsprojektet. Forskningsprojektet er ledet af PhD studerende [Jesper Rasmussen][aujr] som kan kontaktes på jr@ps.au.dk 
+Dataansvarlig for behandlingen af personoplysninger i forskningsprojektet er:
+
++ Aarhus Universitet
++ Nordre Ringgade 1
++ 8000 Aarhus C
++ CVR-nr.: 31119103
+
+Forskningsprojektet er ledet af PhD studerende [Jesper Rasmussen][aujr] som kan kontaktes på jr@ps.au.dk 
 
 ## Databeskyttelsesrådgiver ved Aarhus Universitet
 Søren Broberg Nielsen 
