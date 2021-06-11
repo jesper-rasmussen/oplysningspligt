@@ -1,10 +1,8 @@
-## Når bølgerne går højt på de sociale medier
+# Information til deltagere i forskningsprojektet 
 
 Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”.
-
 Projektet udføres af PhD-studerende på Aarhus Universitet [Jesper Rasmussen][aujr]
 
-1
 
 
 
