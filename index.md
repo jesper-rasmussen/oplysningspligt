@@ -1,8 +1,29 @@
 # Information til deltagere i forskningsprojektet 
 
-Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”.
+Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”. På denne side 
 Projektet udføres af PhD-studerende på Aarhus Universitet [Jesper Rasmussen][aujr]
 
+# Sådan behandler Aarhus Universitet dine personoplysninger
+Her kan du finde information om
+
+## Den dataansvarlige
+
+Aarhus Universitet
+Nordre Ringgade 1
+8000 Aarhus C
+CVR-nr.: 31119103
+
+er dataansvarlig for behandlingen af personoplysninger i forskningsprojektet. 
+
+Forskningsprojektet er ledet af PhD studerende Jesper Rasmussen som kan kontaktes på jr@ps.au.dk 
+
+## Databeskyttelsesrådgiver ved Aarhus Universitet
+Søren Broberg Nielsen 
+Databeskyttelsesrådgiver/DPO
+dpo@au.dk 
+
+## Forskningsprojektets titel
+Når bølgerne går højt på de sociale medier
 
 
 
