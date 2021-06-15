@@ -1,5 +1,5 @@
 # Information til deltagere i forskningsprojektet 
-Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger. Projektet har modtaget etisk godkendelse af Aarhus Univseritets Forskningsetiske Komité den 15. marts 2021 (Godkendelsesnummer: 2021-19)
+Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger. Projektet har modtaget etisk godkendelse af [Aarhus Univseritets Forskningsetiske Komité][aufk] den 15. marts 2021 (Godkendelsesnummer: 2021-19)
 
 # Sådan behandler Aarhus Universitet dine personoplysninger
 I forbindelse med din deltagelse i et forskningsprojekt på Aarhus Universitet, skal vi efter databeskyttelsesforordningen oplyse dig om, hvordan dine personoplysninger vil blive behandlet. 
@@ -75,6 +75,6 @@ Carl Jacobsens Vej 35
 2500 Valby
 
 
-
+[aufk]: https://newsroom.au.dk/nyheder/vis/artikel/au-har-faaet-en-forskningsetisk-komite/
 [aujr]: https://pure.au.dk/portal/da/persons/jesper-rasmussen(2f79998b-b76a-4449-bc69-9c324b034fd1).html
 
