@@ -1,5 +1,5 @@
 # Information til deltagere i forskningsprojektet 
-Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger.
+Velkommen til hjemmesiden for forskningsprojektet, ”Når bølgerne går højt på de sociale medier”. På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger. Projektet har modtaget etisk godkendelse af Aarhus Univseritets Forskningsetiske Komité den 15. marts 2021 (Godkendelsesnummer: 2021-19)
 
 # Sådan behandler Aarhus Universitet dine personoplysninger
 I forbindelse med din deltagelse i et forskningsprojekt på Aarhus Universitet, skal vi efter databeskyttelsesforordningen oplyse dig om, hvordan dine personoplysninger vil blive behandlet. 
