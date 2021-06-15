@@ -48,6 +48,7 @@ Vi kan ikke på nuværende tidspunkt sige, hvor længe dine personoplysninger vi
 ## Personoplysninger er indhentet fra
 
 + Fra dig og andre* 
+
 *Andre refererer her til de offentligt tilgængelige kontaktoplysninger og kommentarer du har skrevet på Facebook opslag
 
 ## Vi har ret til at behandle dine personoplysninger efter regler i databeskyttelsesforordningen og databeskyttelsesloven
