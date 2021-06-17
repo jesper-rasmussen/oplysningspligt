@@ -36,10 +36,10 @@ I projektet behandles følgende oplysninger om dig som deltager:
 ## Anvendelsen af automatiske behandlinger (profilering)
 Profilering er en automatisk behandling af dine personoplysninger, fx behandlinger, der er bestemt af en algoritme. Her kan du se, om der indgår automatiske behandlinger af dine personoplysninger.
 
-+ Der anvendes ikke automatisk behandling af personoplysninger
++ Der anvendes *ikke* automatisk behandling af personoplysninger
 
 ## Hvor længe opbevares dine øvrige personoplysninger?
-Vi kan ikke på nuværende tidspunkt sige, hvor længe dine personoplysninger vil blive behandlet. Dine personoplysninger behandles af Aarhus Universitet i personhenførbar form så længe, det er nødvendigt for forskningsformålet og reglerne om opbevaring efter ansvarlig forskningspraksis. Når dine personoplysninger ikke længere er nødvendige for behandlingen, vil de blive anonymiseret, overført til Rigsarkivet eller slettet.
+Dine personoplysninger opbevares på Aarhus Universitet i personhenførbar form indtil forskningsprojektet afsluttes dog senest 01.02.2023. Efter denne dato vil dine personoplysninger blive anonymiseret, overført til Rigsarkivet eller slettet.
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 
