@@ -31,7 +31,7 @@ I projektet behandles følgende oplysninger om dig som deltager:
 + Navn
 + Alder
 + Køn
-+ Politiske holdninger
++ Politiske ytringer på sociale medier
 
 ## Anvendelsen af automatiske behandlinger (profilering)
 Profilering er en automatisk behandling af dine personoplysninger, fx behandlinger, der er bestemt af en algoritme. Her kan du se, om der indgår automatiske behandlinger af dine personoplysninger.
