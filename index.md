@@ -39,7 +39,7 @@ Profilering er en automatisk behandling af dine personoplysninger, fx behandling
 + Der anvendes *ikke* automatisk behandling af personoplysninger
 
 ## Hvor længe opbevares dine øvrige personoplysninger?
-Dine personoplysninger opbevares på Aarhus Universitet i personhenførbar form indtil forskningsprojektet afsluttes dog senest 01.02.2023. Efter denne dato vil dine personoplysninger blive anonymiseret, overført til Rigsarkivet eller slettet.
+Dine personoplysninger opbevares på Aarhus Universitet i personhenførbar form indtil forskningsprojektet afsluttes. Vi kan på nuværende tidspunkt ikke sige, hvor længe vi opbevarer dine personoplysninger. Vi opbevarer dine personoplysninger så længe det er nødvendigt ift. formålet med projektet og i henhold til gældende lovgivning. Dine oplysninger vil blive anonymiseret inden de opbevares. Efter projektets afslutning vil dine personoplysninger blive anonymiseret, overført til Rigsarkivet eller slettet.
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 
